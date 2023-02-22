@@ -18,3 +18,7 @@ This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
 ![App Screenshot](https://github.com/kerlos-alfy/image-color-analysis/blob/main/3.png?raw=true)
 
 [https://github.com/kerlos-alfy/image-color-analysis/blob/main/Image%20Color%20Analyzer.mp4](https://youtu.be/KwPN3JhfeUs)
+
+
+https://user-images.githubusercontent.com/64893108/220775119-4965165c-dd90-4675-8b10-909b8e5e2fcf.mp4
+
