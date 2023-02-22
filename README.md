@@ -1,14 +1,81 @@
-# Flask-driven Python Image Color Analysis Web App.
+# Flask-driven Python Image Color Analysis Web App 🪄.
 
-From **Day 91** of **100 Days Of Code** taught by _Angela Yu_.
+Final Project for cs50 harvard course
 
 ### Course Section Instructions:
+
 > Using `flask`, create a website that finds the most common colours in an uploaded image.
 
 This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
 
-![Home Page Screenshot](https://github.com/rhc-iv/py-image-color-analysis/blob/main/screenshot01.png)
+# Flask-driven Python Image Color Analysis Web App 🪄.
 
-![Image Selection Screenshot](https://github.com/rhc-iv/py-image-color-analysis/blob/main/screenshot02.png)
+Final Project for cs50 harvard course
 
-![Results Page Screenshot](https://github.com/rhc-iv/py-image-color-analysis/blob/main/screenshot03.png)
+### Course Section Instructions:
+
+> Using `flask`, create a website that finds the most common colours in an uploaded image.
+
+This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
+
+# Flask-driven Python Image Color Analysis Web App 🪄.
+
+Final Project for cs50 harvard course
+
+### Course Section Instructions:
+
+> Using `flask`, create a website that finds the most common colours in an uploaded image.
+
+This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
+
+# Flask-driven Python Image Color Analysis Web App 🪄.
+
+Final Project for cs50 harvard course
+
+### Course Section Instructions:
+
+> Using `flask`, create a website that finds the most common colours in an uploaded image.
+
+This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
+
+## 🛠 Skills
+
+Javascript, HTML, CSS, Python...
+
+# Flask-driven Python Image Color Analysis Web App 🪄.
+
+Final Project for cs50 harvard course
+
+### Course Section Instructions:
+
+> Using `flask`, create a website that finds the most common colours in an uploaded image.
+
+This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
+
+## Screenshots
+
+![App Screenshot](https://github.com/kerlos-alfy/image-color-analysis/blob/main/1.png?raw=true)
+
+![App Screenshot](https://github.com/kerlos-alfy/image-color-analysis/blob/main/2.png?raw=true)
+
+![App Screenshot](https://github.com/kerlos-alfy/image-color-analysis/blob/main/3.png?raw=true)
+
+# Flask-driven Python Image Color Analysis Web App 🪄.
+
+Final Project for cs50 harvard course
+
+### Course Section Instructions:
+
+> Using `flask`, create a website that finds the most common colours in an uploaded image.
+
+This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
+
+# Flask-driven Python Image Color Analysis Web App 🪄.
+
+Final Project for cs50 harvard course
+
+### Course Section Instructions:
+
+> Using `flask`, create a website that finds the most common colours in an uploaded image.
+
+This project also utilizes the `numpy`, `pillow`, and `sklearn` modules.
